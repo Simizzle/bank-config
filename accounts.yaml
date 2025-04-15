@@ -5,7 +5,7 @@ accounts:
   message: "Welcome to SimonBank accounts related local APIs "
   contactDetails:
       name: "John Doe - Developer"
-      email: "john@eazybank.com"
+      email: "{cipher}3d38a75cbea32af406d244354143d6a28f0665eb706405a914be6308a38f3122b0bddef3d24d263d4a953b1762205a2b"
   onCallSupport:
     - (555) 555-1234
     - (555) 523-1345

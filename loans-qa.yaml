@@ -2,7 +2,7 @@ build:
   version: "2.0"
 
 loans:
-  message: "Welcome to EazyBank cards related QA APIs "
+  message: "Welcome to SimonBank cards related QA APIs "
   contactDetails:
     name: "James Smythe - QA Lead"
     email: "james.s@eazybank.com"

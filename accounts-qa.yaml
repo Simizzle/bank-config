@@ -2,7 +2,7 @@ build:
   version: "2.0"
 
 accounts:
-  message: "Welcome to EazyBank accounts related QA APIs "
+  message: "Welcome to SimonBank accounts related QA APIs "
   contactDetails:
     name: "Jim Smith - QA Lead"
     email: "jim@eazybank.com"
